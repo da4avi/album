@@ -2,7 +2,7 @@ import { Col, Container, Row } from "react-bootstrap";
 
 export default function Footer() {
   return (
-    <Container>
+    <Container style={{ margin: '40px'}}>
       <Row>
         <Col lg={4} sm={12}>
           <div>
